@@ -1,0 +1,15 @@
+{
+    "title": "Test Cusmon 12312443",
+    "baseURL": "https:\/\/qwe.custom.test",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "custom.test"
+    }
+}
